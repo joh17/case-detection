@@ -1,0 +1,15 @@
+# Inference (case_detection)
+torch~=2.7.0
+transformers~=4.52.4
+
+# Inflection (optional, for case_detection.inflect)
+# pyhfst
+
+# Training (training/)
+beautifulsoup4~=4.13.3
+datasets~=4.0.0
+dotenv~=0.9.9
+fire~=0.7.0
+ruff~=0.12.4
+scikit-learn~=1.7.0
+wandb~=0.20.1

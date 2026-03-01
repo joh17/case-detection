@@ -169,3 +169,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+.env
+wandb/
+data/*
+*_old.*
+.DS_Store
+.vscode
+results
+optimizer.pt
+archive
