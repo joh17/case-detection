@@ -20,6 +20,8 @@ Pre-trained models on Hugging Face:
 - [johl/fi-case-detection-finbert](https://huggingface.co/johl/fi-case-detection-finbert) (FinBERT-based)
 - [johl/fi-case-detection-xlm-roberta](https://huggingface.co/johl/fi-case-detection-xlm-roberta) (XLM-RoBERTa-based)
 
+Research publication: https://aclanthology.org/2026.sigtyp-main.1/
+
 ## Quick start
 
 ```bash
