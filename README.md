@@ -21,6 +21,7 @@ Pre-trained models on Hugging Face:
 - [johl/fi-case-detection-xlm-roberta](https://huggingface.co/johl/fi-case-detection-xlm-roberta) (XLM-RoBERTa-based)
 
 Research publication: https://aclanthology.org/2026.sigtyp-main.1/
+> Laurmaa, Johannes. "Automatic Grammatical Case Prediction for Template Filling in Case-Marking Languages: Implementation and Evaluation for Finnish." Proceedings of the 8th Workshop on Research in Computational Linguistic Typology and Multilingual NLP. 2026.
 
 ## Quick start
 
